@@ -106,11 +106,10 @@ Based on **Design Thinking diverge-converge pattern**:
    - Consider "no change" as valid option | 考虑"不改变"作为有效方案
 
 2. **Multi-dimensional Trade-off Matrix | 多维度权衡矩阵**
-   ```
+
    Solution X: [Technical Benefits] ⚖️ [Implementation Cost] ⚖️ [Risk Assessment]
    Solution Y: [Technical Benefits] ⚖️ [Implementation Cost] ⚖️ [Risk Assessment]
    Solution Z: [Technical Benefits] ⚖️ [Implementation Cost] ⚖️ [Risk Assessment]
-   ```
 
 3. **Constraint Priority Framework | 约束优先级框架**
    - Performance efficiency vs Code maintainability | 性能效率 vs 代码可维护性
