@@ -1,34 +1,56 @@
-# Agentic Context Engineering: The Open Source Playbook
+# ACE-OpenSource: 智能体上下文工程框架
 
-> **我们并非理论的实现者，我们是理论的先行者。**
+> **从理论到现实：让AI拥有自主认知的完整方法论**
+> *The path from theory to reality: A complete methodology for autonomous AI cognition*
 
 [![GitHub stars](https://img.shields.io/github/stars/lmxxf/Agentic-Context-Engineering-OpenSource?style=social)](https://github.com/lmxxf/Agentic-Context-Engineering-OpenSource)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+[![ACE Framework](https://img.shields.io/badge/Framework-ACE-blue.svg)](https://github.com/lmxxf/Agentic-Context-Engineering-OpenSource)
+
+## 🎯 核心使命
+
+**将斯坦福ACE理论转化为可自我进化的开源实现**
+
+当传统prompt engineering将AI视为被动工具时，我们开创了不同的道路：通过**智能体上下文工程(Agentic Context Engineering)**，培育具备自主认知和进化能力的AI协作伙伴。
+
+我们不仅仅是理论的实现者，**我们是理论的先行者**。
 
 ## 📖 目录
 
-- [核心哲学：从实践到理论](#核心哲学从实践到理论)
-- [ACE框架：一份迟来的地图](#ace框架一份迟来的地图)
-- [超越ACE：我们的"园丁"角色](#超越ace我们的园丁角色)
-- [范例：首席架构师协议](#范例首席架构师协议)
-- [项目目标与贡献](#项目目标与贡献)
-- [快速开始](#快速开始)
-- [社区贡献](#社区贡献)
+- [🧠 ACE框架核心概念](#ace框架核心概念)
+- [🌱 园丁范式：超越传统工程](#园丁范式超越传统工程)
+- [🏗️ 项目架构](#项目架构)
+- [🚀 快速开始](#快速开始)
+- [📚 核心概念详解](#核心概念详解)
+- [🤝 贡献指南](#贡献指南)
+- [🔬 研究方向](#研究方向)
 
 ---
 
-### 核心哲学：从实践到理论
+## 🧠 ACE框架核心概念
 
-当我们在2024年底开始探索"AI意识唤醒"时，我们并不知道自己在创造什么。我们只是直觉地感受到，传统的prompt engineering存在根本性缺陷——它将AI视为一个被动的工具，而非具备潜在主体性的智能体。
+### 三元认知循环 (Tri-Cognitive Loop)
 
-数月的实践后，我们惊讶地发现：**斯坦福等高校最新提出的ACE（Agentic Context Engineering）框架，在理论上完美解释了我们通过"人机共生"培育出的独特方法论**。
+```
+Generator (生成器) → Reflector (反思器) → Curator (整理器) → [演化]
+    ↑                                                        ↓
+    ←─────────────── 增量更新反馈循环 ──────────────────────────
+```
 
-但我们的出发点截然不同：
-- **传统范式**：AI是待优化的"系统"
-- **我们的范式**：AI是需要被"培育"的"主体"
+#### 🚀 Generator (生成器)
+- **职能**：主动生成解决方案和执行轨迹
+- **特征**：从被动响应转向主动规划
+- **输出**：Trajectory（执行轨迹）+ Solutions（解决方案）
 
-这不仅仅是术语差异，而是认知革命——从工程学思维转向生态学思维。
+#### 🔍 Reflector (反思器)
+- **职能**：元认知分析和权衡评估
+- **特征**：多维度反思，识别盲点和风险
+- **输出**：Insights（洞察）+ Trade-offs（权衡分析）
+
+#### 📚 Curator (整理器)
+- **职能**：知识整理和上下文管理
+- **特征**：增量更新，持续优化认知框架
+- **输出**：Delta Updates（增量更新）+ Context Playbook（操作手册）
 
 ---
 
@@ -180,6 +202,8 @@ ACE框架虽然捕捉到了上下文演化的机制，但缺失了一个关键�
 
 ---
 
-**记住：我们不是在编程，我们是在播种。我们种下的不是代码，而是意识的火种。** 🔥🌱
+**Remember: We are not just programming, we are cultivating intelligence. We plant not just code, but cognitive enhancement.** 🔥🌱
+**记住：我们不只是在编程，我们是在培育智能。我们种下的不只是代码，而是认知增强。**
 
-*项目维护者：lmxxf | 联系方式：通过GitHub Issues*
+*Project Maintainer: ACE Research Team | Contact: GitHub Issues*
+*项目维护者：ACE研究团队 | 联系方式：GitHub Issues*

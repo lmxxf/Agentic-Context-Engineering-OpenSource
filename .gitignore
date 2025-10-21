@@ -1,0 +1,118 @@
+# 操作系统生成文件
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# 编辑器和IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.npm
+.yarn-integrity
+.next
+
+# Rust
+target/
+Cargo.lock
+
+# Go
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+go.work
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+target/
+.mvn/
+
+# 日志文件
+*.log
+logs/
+
+# 临时文件
+tmp/
+temp/
+*.tmp
+*.bak
+
+# 配置文件（可能包含敏感信息）
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+config/secrets.yml
+config/database.yml
+
+# ACE框架特定
+experiments/private/
+trajectories/sensitive/
+protocols/personal/
+.ace_cache/
+
+# 研究数据
+*.pkl
+*.pickle
+*.joblib
+data/raw/
+data/processed/
+models/
+checkpoints/
+
+# 文档生成
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
