@@ -1,7 +1,8 @@
+# ACE-OpenSource: Agentic Context Engineering Framework
 # ACE-OpenSource: 智能体上下文工程框架
 
+> **The path from theory to reality: A complete methodology for autonomous AI cognition**
 > **从理论到现实：让AI拥有自主认知的完整方法论**
-> *The path from theory to reality: A complete methodology for autonomous AI cognition*
 
 [![GitHub stars](https://img.shields.io/github/stars/lmxxf/Agentic-Context-Engineering-OpenSource?style=social)](https://github.com/lmxxf/Agentic-Context-Engineering-OpenSource)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
