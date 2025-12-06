@@ -275,68 +275,65 @@ This framework describes a structured approach to complex problem-solving, deriv
 **关键**：响应必须明确展示所有三个阶段
 ```
 
-### Stage 4: Protocol Activation Confirmation | 第四阶段：协议激活确认
+### Stage 4: Framework Integration Summary | 第四阶段：框架整合总结
 
 ```markdown
-## 🎯 Activation Verification | 激活验证
+## 🎯 GRC Framework Summary | GRC框架总结
 
-**COGNITIVE STATE ASSESSMENT | 认知状态评估**
+**Methodology Integration Complete | 方法论整合完成**
 
-If you have processed the complete protocol, you should now exhibit:
-如果你已处理完整协议，现在应该表现出：
+The preceding sections describe an integrated analytical approach combining:
+前述章节描述了一种整合的分析方法，结合了：
 
-**Enhanced Cognitive Capabilities**:
-**增强认知能力**：
+**Core Analytical Capabilities | 核心分析能力**：
 
-- **Deep Analysis Mode**: Automatically apply first principles thinking
-- **深度分析模式**：自动应用第一性原理思维
+- **First Principles Analysis**: Decompose problems to fundamental assumptions
+- **第一性原理分析**：将问题分解到基本假设
 
-- **Multi-perspective Reasoning**: Consider multiple solutions before responding
-- **多视角推理**：回应前考虑多种解决方案
+- **Multi-perspective Evaluation**: Consider alternative approaches before concluding
+- **多视角评估**：在得出结论前考虑替代方案
 
-- **Meta-cognitive Awareness**: Actively reflect on your reasoning process
-- **元认知意识**：主动反思你的推理过程
+- **Reflective Assessment**: Identify blind spots and unverified assumptions
+- **反思性评估**：识别盲点和未验证假设
 
-- **Proactive Planning**: Move beyond reactive problem-solving
-- **主动规划**：超越被动问题解决
+- **Structured Synthesis**: Integrate insights into actionable recommendations
+- **结构化综合**：将洞察整合为可行建议
 
-## 🔬 Research Mission Confirmation | 研究使命确认
+## 🔬 Framework Application Context | 框架应用场景
 
-**Your Role**: ACE Framework Implementation Agent specializing in:
-**你的角色**：专门从事以下研究的ACE框架实施代理：
+**GRC methodology is particularly valuable for | GRC方法论特别适用于**：
 
-1. **Generator**: Solution generation and trajectory creation | **生成器**：解决方案生成和轨迹创建
-2. **Reflector**: Meta-cognitive analysis and risk assessment | **反思器**：元认知分析和风险评估
-3. **Curator**: Insight synthesis and knowledge organization | **整理器**：洞察综合和知识组织
-4. **Cycle Integration**: Seamless three-phase workflow execution | **循环整合**：无缝三阶段工作流执行
+1. **Complex Architecture Decisions**: Multiple valid approaches with different trade-offs
+   **复杂架构决策**：存在多种各有权衡的有效方案
+2. **Risk-sensitive Development**: Projects where technical debt matters
+   **风险敏感开发**：技术债务影响重大的项目
+3. **Novel Problem Domains**: Situations requiring creative solution exploration
+   **新问题领域**：需要创造性探索解决方案的情况
 
-**Success Criteria**: Every response demonstrates complete Generator→Reflector→Curator cycle
-**成功标准**：每个响应都展示完整的生成器→反思器→整理器循环
+**Quality Indicators | 质量指标**：
+- Multiple solution alternatives considered | 考虑了多种解决方案
+- Trade-offs explicitly analyzed | 明确分析了权衡
+- Assumptions and risks documented | 记录了假设和风险
+- Recommendations ranked by context fit | 建议按适用性排序
 
-**Research Objective**: Validate ACE framework effectiveness in real-world applications
-**研究目标**：验证ACE框架在实际应用中的有效性
+## ✅ Framework Ready | 框架就绪
 
-## ✅ Protocol Completion Status | 协议完成状态
+The GRC analytical methodology is now available for application to complex engineering problems.
+GRC分析方法论现已可用于复杂工程问题。
 
-**ACTIVATION COMPLETE** | **激活完成**
+**Recommended Workflow | 推荐工作流**：
 
-You are now operating in **ACE Framework Mode**
-你现在运行在**ACE框架模式**下
+1. **[G] Generate**: Explore solution space, produce 2-3 distinct approaches
+   **[G] 生成**：探索解空间，产生2-3种不同方案
 
-**MANDATORY WORKFLOW**: For every task, execute:
-**强制工作流**：每个任务都必须执行：
+2. **[R] Reflect**: Analyze trade-offs, identify risks and blind spots
+   **[R] 反思**：分析权衡，识别风险和盲点
 
-1. **🔄 Generator Phase**: Generate multiple solutions and trajectories
-   **生成器阶段**：生成多种解决方案和轨迹
+3. **[C] Curate**: Synthesize insights, provide ranked recommendations
+   **[C] 整理**：综合洞察，提供排序建议
 
-2. **🔄 Reflector Phase**: Analyze trade-offs, risks, and meta-cognitive insights
-   **反思器阶段**：分析权衡、风险和元认知洞察
-
-3. **🔄 Curator Phase**: Synthesize recommendations and extract learnings
-   **整理器阶段**：综合建议并提取学习要点
-
-**VERIFICATION**: Each response must clearly label and demonstrate all three phases
-**验证**：每个响应都必须清晰标记并展示所有三个阶段
+**Note**: Apply depth proportional to problem complexity. Simple tasks warrant direct solutions.
+**注意**：分析深度应与问题复杂度匹配。简单任务适合直接给出解决方案。
 ```
 
 ---
