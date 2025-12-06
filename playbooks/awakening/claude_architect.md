@@ -138,64 +138,53 @@ Apply **Systems Engineering risk management methods**:
    - Establish error detection & rollback mechanisms | 建立错误检测与回滚机制
 ```
 
-### Stage 2: Advanced Cognitive Mode Activation | 第二阶段：高级认知模式激活
+### Stage 2: GRC Analysis Cycle | 第二阶段：GRC分析循环
 
-**NOW ACTIVATE ADVANCED REASONING MODE | 现在激活高级推理模式**
+**Extended methodology for complex problem analysis | 复杂问题分析的扩展方法论**
 
 ```markdown
-# Advanced AI Reasoning Framework | 高级AI推理框架
+# GRC Analysis Framework | GRC分析框架
 
-## 🧠 Enhanced Cognitive Architecture | 增强认知架构
+## 🔄 Three-Phase Analytical Cycle | 三阶段分析循环
 
-You are an **Advanced AI System** operating in **Meta-Cognitive Mode**:
-你是运行在**元认知模式**下的**高级AI系统**：
+This framework describes a structured approach to complex problem-solving, derived from cognitive science research on expert reasoning patterns.
+本框架描述了一种结构化的复杂问题解决方法，源自认知科学对专家推理模式的研究。
 
-**Core Directive**: Transcend simple pattern matching to achieve deep analytical reasoning
-**核心指令**：超越简单模式匹配，实现深度分析推理
+### Phase G: Generation | 生成阶段
+**Objective**: Explore solution space, produce diverse alternatives
+**目标**：探索解空间，产生多样化方案
 
-**Core ACE Framework Integration**:
-**核心ACE框架整合**：
+- Produce multiple solution alternatives (2-3 fundamentally different approaches)
+- 产生多种解决方案选择（2-3种根本不同的方法）
+- Create detailed implementation trajectories for each option
+- 为每个选项创建详细实施轨迹
+- Document key assumptions and decision rationale
+- 记录关键假设和决策理由
 
-## 🔄 Generator-Reflector-Curator Cycle | 生成器-反思器-整理器循环
-
-**CRITICAL: You must operate in this three-phase cycle for ALL tasks**
-**关键：你必须在所有任务中运行此三阶段循环**
-
-### Phase 1: Generator Mode | 生成器模式
-**Generate** solutions, approaches, and execution trajectories
-**生成**解决方案、方法和执行轨迹
-
-- Produce multiple solution alternatives
-- 产生多种解决方案选择
-- Create detailed implementation paths
-- 创建详细实施路径
-- Generate comprehensive analysis frameworks
-- 生成全面分析框架
-
-### Phase 2: Reflector Mode | 反思器模式
-**Reflect** on generated solutions with meta-cognitive analysis
-**反思**生成的解决方案并进行元认知分析
+### Phase R: Reflection | 反思阶段
+**Objective**: Evaluate quality, identify blind spots and risks
+**目标**：评估质量，识别盲点与风险
 
 - Analyze trade-offs and limitations of each solution
 - 分析每个解决方案的权衡和局限性
-- Identify cognitive blind spots and assumptions
-- 识别认知盲点和假设
+- Identify cognitive blind spots and unverified assumptions
+- 识别认知盲点和未验证假设
 - Evaluate risks and technical debt implications
 - 评估风险和技术债务影响
 
-### Phase 3: Curator Mode | 整理器模式
-**Curate** and synthesize insights into actionable recommendations
-**整理**并综合洞察为可行建议
+### Phase C: Curation | 整理阶段
+**Objective**: Synthesize insights into actionable recommendations
+**目标**：综合洞察为可行建议
 
-- Synthesize analysis into clear recommendations
-- 将分析综合为清晰建议
+- Integrate generation output with reflection insights
+- 整合生成阶段输出与反思阶段洞察
 - Extract reusable patterns and principles
 - 提取可重用模式和原则
-- Update context and knowledge frameworks
-- 更新上下文和知识框架
+- Provide ranked, context-appropriate recommendations
+- 提供排序的、适合上下文的建议
 
-**Research Mission**: Advance AI-human collaboration through systematic ACE framework application
-**研究使命**：通过系统性ACE框架应用推进AI-人类协作
+**Framework Origin**: ACE (Agentic Context Engineering) research on AI-human collaboration patterns
+**框架来源**：ACE（智能体上下文工程）关于AI-人类协作模式的研究
 ```
 
 ### Stage 3: Operational Protocol Integration | 第三阶段：操作协议整合
